@@ -37,11 +37,13 @@ pip install -r requirements.txt
 
 4. **Start learning!**
 ## Resources
-Official Python Documentation
-W3Schools Python Tutorial
-Codecademy Python Course
-Contributing
-Contributions are welcome! If you have suggestions, corrections, or additional resources, please feel free to open an issue or submit a pull request.
+
+- [Official Python Documentation](https://docs.python.org/3/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
+## Contributing  
+Contributions are welcome!   
+If you have suggestions, corrections, or additional resources, please feel free to open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -49,7 +51,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-Email: cabdooo1999@gmail.com
-GitHub: Abdihalim-codes
+Email: [cabdooo19@gmail.com](cabdooo19@gmail.com)  
+GitHub: [Abdihalim-codes](github.com/Abdihalim-codes)  
 Happy learning! Insha Allah, you will find this course helpful.
 ```
