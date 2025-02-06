@@ -5,7 +5,7 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 It is used for:
 
-    -Seb development (server-side),
+    -Web development (server-side),
     -Software development,
     -Data analysis,
     -System scripting.
@@ -39,5 +39,4 @@ It is used for:
 ## Example 
 ```bash
 print("Hello World!")
-```
 ```
