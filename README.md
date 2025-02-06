@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-Email: [cabdooo19@gmail.com](cabdooo19@gmail.com)  
-GitHub: [Abdihalim-codes](github.com/Abdihalim-codes)  
+Email: [cabdooo19@gmail.com](https://www.cabdooo19@gmail.com)  
+GitHub: [Abdihalim-codes](https://www.github.com/Abdihalim-codes)  
 Happy learning! Insha Allah, you will find this course helpful.
 ```
