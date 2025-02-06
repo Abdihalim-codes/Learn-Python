@@ -25,31 +25,31 @@ To get started with this course, follow these steps:
    ```bash
    git clone https://github.com/Abdihalim-codes/Learn-Python.git
 
-   Navigate to the project directory:
+2. **Navigate to the project directory:**
    
 ```bash
 cd Learn-Python
 ```
-Install the required packages:
+3. **Install the required packages:**
 ```bash
 pip install -r requirements.txt
 ```
 
-Start learning!
-```
-Resources
+4. **Start learning!**
+## Resources
 Official Python Documentation
 W3Schools Python Tutorial
 Codecademy Python Course
 Contributing
 Contributions are welcome! If you have suggestions, corrections, or additional resources, please feel free to open an issue or submit a pull request.
-```
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
+
 ## Contact
 For any questions or feedback, feel free to reach out:
 
 Email: cabdooo1999@gmail.com
 GitHub: Abdihalim-codes
 Happy learning! Insha Allah, you will find this course helpful.
+```
