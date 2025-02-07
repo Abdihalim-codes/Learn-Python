@@ -4,7 +4,7 @@ Welcome to the **Learn Python** repository! This course is designed for beginner
 
 ## Overview
 
-This course is dedicated to the students of **Hoodo Technology** and is completely **free** on GitHub. Insha Allah, you will gain a solid foundation in Python programming, including essential concepts and practical applications.
+This course is dedicated to the students of [**Hoodo Technology**](https://hoodotechnology.com/) and is completely **free** on GitHub. Insha Allah, you will gain a solid foundation in Python programming, including essential concepts and practical applications.
 
 ## Course Structure
 
