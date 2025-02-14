@@ -1,3 +1,5 @@
+# This Exercise is for Beginners.
+
 1. Write a Python program that includes  
 single-line comments
 Explain what the program does in the comments?
